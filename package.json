@@ -25,7 +25,7 @@
   "homepage": "https://github.com/multimediatechnology/assignment-frontend#readme",
   "devDependencies": {
     "babel": "^6.5.2",
-    "mocha": "^3.2.0",
+    "mocha": "^4.0.1",
     "should": "^11.0.0",
     "uuid": "^3.0.1",
     "validator": "^7.0.0"
