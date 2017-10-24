@@ -5,7 +5,7 @@
 .idea/
 
 # logs
-npm-debug.log
+*.log
 
 # deps
 node_modules/
