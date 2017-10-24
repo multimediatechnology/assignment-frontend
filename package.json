@@ -4,7 +4,8 @@
   "description": "Assignment for Frontend Development",
   "main": "index.js",
   "scripts": {
-    "start": "./bin/run.sh"
+    "postinstall": "./bin/install.sh",
+    "test": "./bin/run.sh"
   },
   "repository": {
     "type": "git",
@@ -23,11 +24,5 @@
     "url": "https://github.com/multimediatechnology/assignment-frontend/issues"
   },
   "homepage": "https://github.com/multimediatechnology/assignment-frontend#readme",
-  "devDependencies": {
-    "babel": "^6.5.2",
-    "mocha": "^4.0.1",
-    "should": "^13.1.0",
-    "uuid": "^3.0.1",
-    "validator": "^9.0.0"
-  }
+  "devDependencies": {}
 }
